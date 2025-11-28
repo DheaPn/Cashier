@@ -33,35 +33,35 @@ Berikut tujuan pembuatan program:
 
 - add_item()
 
-  ![image](https://github.com/user-attachments/assets/92350623-3bc7-4d67-ac40-82b01e8903b7)
+  ![image](https://github.com/user-attachments/assets/94d11c33-6b86-4e5f-88b2-4268e7361519)
 
 - update_item_name()
 
-  ![image](https://github.com/user-attachments/assets/346e7099-bf3d-4173-9723-2857180da408)
+  ![image](https://github.com/user-attachments/assets/0fbb9ce0-5a57-41fc-9dd1-4f2556f2f596)
 
 - update_item_qty()
 
-  ![image](https://github.com/user-attachments/assets/aca599af-9fac-4b06-86ff-eca8e72b9a9e)
+  ![image](https://github.com/user-attachments/assets/b04ecb1c-c07a-49e2-bf36-f3dd9bf996e1)
 
 - update_item_price()
 
-  ![image](https://github.com/user-attachments/assets/0e67ad7c-6bcf-4a53-8292-e87a47449c89)
+  ![image](https://github.com/user-attachments/assets/eac9a901-9105-4f17-b8c1-76bfb0a2de2d)
 
 - delete_item()
 
-  ![image](https://github.com/user-attachments/assets/c0fc5154-eb98-4c87-98b6-7001bc177c7c)
+  ![image](https://github.com/user-attachments/assets/25627861-05be-4e9b-97d6-64945351c6e5)
 
 - reset_transaction()
 
-  ![image](https://github.com/user-attachments/assets/e5118437-e57d-492f-a1a2-a38857ef46bf)
+  ![image](https://github.com/user-attachments/assets/74bfd0c8-6d11-486b-b05c-5416ca8bfc16)
 
 - check_order()
 
-  ![image](https://github.com/user-attachments/assets/2f4104ee-9ef6-4481-b72f-7c21084fe5ba)
+  ![image](https://github.com/user-attachments/assets/a0540068-1ac3-4b0d-a138-af23f0d3d9ee)
 
 - total_price()
 
-  ![image](https://github.com/user-attachments/assets/ebbf674f-d9bd-42a6-baf3-c46dc35edf7e)
+  ![image](https://github.com/user-attachments/assets/d6a821d4-9a9b-48bb-a75e-1b6f46a33ac4)
 
 ✔️ Aturan Diskon:
 
@@ -113,7 +113,7 @@ Berisi class Transaction yang menangani seluruh logika transaksi. Method-method 
 
 ## Flowchart Program
 
-![Image](https://github.com/user-attachments/assets/fe3a4543-cfd5-4fb8-831d-d38f4c7419eb)
+![Image](https://github.com/user-attachments/assets/61d316f2-03dd-4142-bc52-d7610ecfefa3)
 
 ## Cara Menjalankan Program
 
@@ -121,44 +121,44 @@ Berisi class Transaction yang menangani seluruh logika transaksi. Method-method 
 2. Buka terminal
 3. Masuk folder project
 4. Jalankan:
-   ![image](https://github.com/user-attachments/assets/26c9c933-0f8b-4ade-aa54-0fcdb27cd4ed)
+   ![image](https://github.com/user-attachments/assets/6b3b8b21-8c2b-4e4d-878a-ef95d825a863)
 
    Menu program akan muncul:
-   ![image](https://github.com/user-attachments/assets/412302a7-edd8-4049-a6ea-61c752b438bb)
+   ![image](https://github.com/user-attachments/assets/0742fe50-b141-4f18-a0d6-33cbe0cacf91)
 
 ## Hasil Test-Case Program
 
 ### 1. Input 1 – Tambah Item
 
-![image](https://github.com/user-attachments/assets/144fc9b9-b6fa-4069-bfd4-edb70826ee39)
+![image](https://github.com/user-attachments/assets/4efb712c-f962-4861-91cf-60b7c6f70732)
 
 ### 2. Input 4 – Cek Pesanan
 
-![image](https://github.com/user-attachments/assets/ddb0fa14-1374-4a58-a0b4-f06dd2d6e0f1)
+![image](https://github.com/user-attachments/assets/4a62b64a-1da3-4d7e-a4a2-9138474ff30a)
 
 ### 3. Input 2 – Hapus Item
 
-![image](https://github.com/user-attachments/assets/a73d876a-f963-47cc-9159-8d819426abfa)
+![image](https://github.com/user-attachments/assets/8ccf7d62-0354-4d64-b7ba-21034a19ac0b)
 
 ### 4. Input 3 – Update Nama/Jumlah/Harga Item
 
-![image](https://github.com/user-attachments/assets/c4557cfd-a337-4b45-b1bf-9f5586d5a293)
-![image](https://github.com/user-attachments/assets/efaef35b-4e11-4582-9be8-ed134543b984)
-![image](https://github.com/user-attachments/assets/1b3e1e8f-00aa-4cfe-ba1a-06d74ca23605)
+![image](https://github.com/user-attachments/assets/e153955f-3af5-43bf-b132-d72be1a0f925)
+![image](https://github.com/user-attachments/assets/52c2b678-bfc1-47a4-a8af-202cba89a3c9)
+![image](https://github.com/user-attachments/assets/5c4f3818-13d4-4fa4-8ff5-22a4024e9d4c)
 
 ### Input 6 - Reset Transaksi
 
-![image](https://github.com/user-attachments/assets/a9b7b629-128f-4349-b5e8-ec3a2b4101c5)
-![image](https://github.com/user-attachments/assets/533b49b2-1b49-479c-899c-47500724584a)
+![image](https://github.com/user-attachments/assets/f1c50156-9c79-463e-82fa-197326037abf)
+![image](https://github.com/user-attachments/assets/6c039769-2aee-46a1-942f-d2778e734f87)
 
 ### 5. Input 1 – Tambah Item Kembali
 
-![image](https://github.com/user-attachments/assets/bdcae12c-4ebe-4276-8549-6d85f956639a)
-![image](https://github.com/user-attachments/assets/a923ebcd-b5a9-46bb-892c-2f0083e9c4b6)
+![image](https://github.com/user-attachments/assets/564dce4f-ccec-44ce-9220-18ab411360b6)
+![image](https://github.com/user-attachments/assets/cdd8045f-66d6-4fd7-8a12-2ebc88422dbc)
 
 ### 6. Input 5 – Hitung Total Harga
 
-![image](https://github.com/user-attachments/assets/14b9af07-b562-4bdd-b010-99d0009901fc)
+![image](https://github.com/user-attachments/assets/10d4ae7f-58bb-4fe3-b1d3-9b0f534d1744)
 
 ## Conclusion / Future Work (Versi Singkat)
 
