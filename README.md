@@ -160,7 +160,7 @@ Berisi class Transaction yang menangani seluruh logika transaksi. Method-method 
 
 ![image](https://github.com/user-attachments/assets/10d4ae7f-58bb-4fe3-b1d3-9b0f534d1744)
 
-## Conclusion / Future Work (Versi Singkat)
+## Conclusion / Future Work
 
 Program Self-Service Cashier dapat dijalankan melalui terminal dan telah memenuhi fungsi utama sebagai sistem kasir sederhana.
 
