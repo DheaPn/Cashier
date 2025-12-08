@@ -113,8 +113,6 @@ Berisi class Transaction yang menangani seluruh logika transaksi. Method-method 
 
 ## Flowchart Program
 
-![Image](https://github.com/user-attachments/assets/61d316f2-03dd-4142-bc52-d7610ecfefa3)
-
 ## Cara Menjalankan Program
 
 1. Pastikan Python sudah terinstall
